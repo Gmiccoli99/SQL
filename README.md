@@ -1,0 +1,2 @@
+# SQL
+mySQL Academic projects
